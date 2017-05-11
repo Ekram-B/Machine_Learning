@@ -1,3 +1,15 @@
+Description:
+
+In this assignment we will consider the problem classification from discrete input features, in particular using the
+Naive Bayes classifier.
+The dataset we will consider contains over 8000 varieties of mushrooms. For each mushroom it has been indicated
+whether it is edible or not (meaning poisonous or unknown). Further, each mushroom has been classified based on
+a number of features. For instance, mushrooms are classified by the shape, colour and texture of their caps, their
+odours, whether they bruise, what type of stalk they have and so on. In total there are 22 of these features, many
+of which have multiple possible settings.
+The task in this assignment is to build a classifier which will use these features to predict whether a mushroom
+is edible
+
 1. Title: Mushroom Database
 
 2. Sources: 
